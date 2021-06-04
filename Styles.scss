@@ -24,6 +24,10 @@
     .error_subtitle{
         color: white;
     }
+    .img_error{
+        width: 100px;
+        height: 100px;
+    }
     @keyframes pulse {
         0% {transform: scale(1);}
         50% {transform: scale(1.1);}
